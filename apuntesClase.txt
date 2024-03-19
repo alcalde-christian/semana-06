@@ -1,0 +1,22 @@
+Git:
+	Controlador de versiones local
+Github:
+	Controlador de versiones online
+
+GIT_
+
+	1- git --version
+	2- git config --global user.name "Christian Alcalde"
+	3- git config --global user.email alcalde_christian@hotmail.com
+		a) git config user.name
+		b) git config user.email
+	4- cd (arrastrar la carpeta al cmd) /* posicionarse en la carpeta del proyecto */
+	5- git init /* se inicializó el repositorio en la carpeta */
+		/* Repositorio es una carpeta sujeta a cambios */
+	****************************************************************************************************
+	Estados de Git: status - add - commit
+		status: verificar qué tengo dentro de la carpeta
+		add: agregar los archivos (todos o algunos)
+		commit: me permite guardar los cambios mediante un mensaje
+	****************************************************************************************************
+	
